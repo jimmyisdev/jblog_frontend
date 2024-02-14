@@ -1,0 +1,1 @@
+export const nav_item = ["article", "chat"]
